@@ -1,2 +1,1 @@
-# Add two numbers
-Birt Finney
+# Birt Finney
